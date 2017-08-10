@@ -1,0 +1,16 @@
+{
+    "name": "cloudtech",
+    "version": "1.0.0",
+    "description": "Solution to Cloudtech quiz's coding task",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Omar Elshinnawey",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.4",
+        "mongodb": "^2.2.31"
+    }
+}
